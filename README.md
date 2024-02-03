@@ -39,7 +39,7 @@ I've had the opportunity to lead and contribute to various projects in dynamic r
 
 ## Connect with Me 🤝
 - **LinkedIn**: [linkedin.com/in/sasnarine-deodat-2314ba264](https://linkedin.com/in/sasnarine-deodat-2314ba264)
-- **Portfolio**: [sasnarine-deodat.netlify.app](https://sasnarine-deodat.netlify.app/)
+- **Portfolio**: https://sasnarine.com/
 - **GitHub**: [github.com/SasnarineDeodat](https://github.com/SasnarineDeodat)
 - **Email**: [sasnarinedeodat407@gmail.com](mailto:sasnarinedeodat407@gmail.com)
 

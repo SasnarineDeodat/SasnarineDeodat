@@ -1,6 +1,6 @@
 # Hello, I'm Sasnarine Deodat! 👋
 
-As a Full Stack Developer 🌐 with a strong focus on the MERN stack, I bring over 4 years of experience in creating engaging, efficient, and impactful web applications. My passion lies in blending innovative design with functional technology to craft user-centric solutions.
+As a Full Stack Developer 🌐 with a strong focus on the MERN stack, I bring over 5 years of experience in creating engaging, efficient, and impactful web applications. My passion lies in blending innovative design with functional technology to craft user-centric solutions.
 
 ## About Me 📖
 - 🌱 I leverage my deep understanding of front-end and back-end technologies to drive successful project outcomes, constantly learning and adapting to new tech trends.
